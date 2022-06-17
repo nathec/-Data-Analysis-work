@@ -1,2 +1,2 @@
-# -Datat-Analysis-work
+# -Data-Analysis-work
 Completed work from my data analysis program
